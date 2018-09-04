@@ -1,0 +1,9 @@
+Building Vtour
+
+See doc/readme-qt.rst for instructions on building Vtour-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vtour.
+
+See doc/build-*.txt for instructions on building vtourd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vtour.
